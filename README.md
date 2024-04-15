@@ -13,9 +13,9 @@ https://oss.v2rayse.com/proxies/data/2024-03-08/ns44prg.txt
 https://oss.v2rayse.com/proxies/data/2024-03-08/JMkLFCB.txt
 ```
 ## 最后
-- 本站有时被墙🚫可用其它慢速梯子兑换本站的高速订阅
+本站有时被墙🚫可用其它慢速梯子兑换本站的高速订阅
 
-- 永久白嫖高速订阅，如果喜欢请转发❤️收藏本站不迷路
+永久白嫖高速订阅，如果喜欢请转发❤️收藏本站不迷路
 ```
 https://github.com/CryingMan666/eternal-nodes
 ```
