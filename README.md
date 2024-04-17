@@ -6,16 +6,13 @@
 ## 优质订阅(𝟏小时前更新)
 
 ```
-https://oss.v2rayse.com/proxies/data/2024-04-17/0CtCS6p.txt
-```
-```
-https://oss.v2rayse.com/proxies/data/2024-04-17/aerkNFD.txt
-```
-```
 https://oss.v2rayse.com/proxies/data/2024-04-17/05HR9rE.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-04-16/qwfbshq.txt
+```
+```
+https://oss.v2rayse.com/proxies/data/2024-04-17/aerkNFD.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-04-16/KzFK5BV.txt
