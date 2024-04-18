@@ -12,7 +12,7 @@ https://shz.al/BEPs
 https://oss.v2rayse.com/proxies/data/2024-04-16/qwfbshq.txt
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-04-18/wQdmdD0.txt
+https://oss.v2rayse.com/proxies/data/2024-04-18/hhBWxDC.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-04-16/KzFK5BV.txt
