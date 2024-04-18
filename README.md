@@ -6,6 +6,9 @@
 ## 优质订阅(𝟏小时前更新)
 
 ```
+https://shz.al/BEPs
+```
+```
 https://oss.v2rayse.com/proxies/data/2024-04-17/ESLlz05.txt
 ```
 ```
