@@ -30,3 +30,5 @@ https://oss.v2rayse.com/proxies/data/2024-04-16/KzFK5BV.txt
 > 永久白嫖高速订阅，如果喜欢请转发👇收藏本站不迷路
 > 
 > https://github.com/CryingMan666/eternal-nodes
+>
+> [![Stargazers over time](https://starchart.cc/CryingMan666/eternal-nodes.svg)](https://starchart.cc/CryingMan666/eternal-nodes)
