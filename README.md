@@ -30,7 +30,7 @@ https://oss.v2rayse.com/proxies/data/2024-04-16/KzFK5BV.txt
 
 [![Stargazers over time](https://starchart.cc/CryingMan666/eternal-nodes.svg)](https://starchart.cc/CryingMan666/eternal-nodes)
 <details>
-<summary>本软件仅供学习交流使用⚡️请勿用于其他用途</summary>
+<summary>本站仅供学习交流使用⚡️请勿用于其他用途</summary>
 
 [![GitHub stars](https://img.shields.io/github/stars/CryingMan666/eternal-nodes.svg?style=social&label=Stars)](https://github.com/CryingMan666/eternal-nodes/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/CryingMan666/eternal-nodes.svg?style=social&label=Fork)](https://github.com/CryingMan666/eternal-nodes/network/members)
