@@ -36,5 +36,5 @@ https://oss.v2rayse.com/proxies/data/2024-04-22/arStjb1.txt
 [![GitHub forks](https://img.shields.io/github/forks/CryingMan666/eternal-nodes.svg?style=social&label=Fork)](https://github.com/CryingMan666/eternal-nodes/network/members)
 <img alt="commit" src="https://img.shields.io/github/commit-activity/m/CryingMan666/eternal-nodes?color=%23ff69b4">
 
-<a href="https://github.com/CryingMan666/eternal-nodes/graphs/contributors"><img src="https://contrib.rocks/image?repo=CryingMan666/eternal-nodes"  alt="contributors"/></a> 恭喜你解锁隐藏成就:【监察者】
+<a href="https://github.com/CryingMan666/eternal-nodes/graphs/contributors"><img src="https://contrib.rocks/image?repo=CryingMan666/eternal-nodes"  alt="contributors"/></a> 恭喜解锁隐藏成就:【监察者】
 </details>
