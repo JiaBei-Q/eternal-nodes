@@ -5,6 +5,12 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
+https://oss.v2rayse.com/proxies/data/2024-04-22/9HLJn21.txt
+```
+```
+https://shz.al/2E8R
+```
+```
 https://oss.v2rayse.com/proxies/data/2024-04-21/USnjUDv.txt
 ```
 ```
@@ -14,7 +20,7 @@ https://oss.v2rayse.com/proxies/data/2024-04-21/K9ELSQQ.txt
 https://oss.v2rayse.com/proxies/data/2024-04-21/mCcLsfs.txt
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-04-16/KzFK5BV.txt
+https://oss.v2rayse.com/proxies/data/2024-04-22/arStjb1.txt
 ```
 
 ## ★★★★
@@ -36,5 +42,5 @@ https://oss.v2rayse.com/proxies/data/2024-04-16/KzFK5BV.txt
 [![GitHub forks](https://img.shields.io/github/forks/CryingMan666/eternal-nodes.svg?style=social&label=Fork)](https://github.com/CryingMan666/eternal-nodes/network/members)
 <img alt="commit" src="https://img.shields.io/github/commit-activity/m/CryingMan666/eternal-nodes?color=%23ff69b4">
 
-<a href="https://github.com/CryingMan666/eternal-nodes/graphs/contributors"><img src="https://contrib.rocks/image?repo=CryingMan666/eternal-nodes"  alt="contributors"/></a> 解锁隐藏成就：【监察者】
+<a href="https://github.com/CryingMan666/eternal-nodes/graphs/contributors"><img src="https://contrib.rocks/image?repo=CryingMan666/eternal-nodes"  alt="contributors"/></a> 恭喜你解锁成就:【监察者】
 </details>
