@@ -36,6 +36,6 @@ https://oss.v2rayse.com/proxies/data/2024-04-22/arStjb1.txt
 
 [![Stargazers over time](https://starchart.cc/CryingMan666/eternal-nodes.svg)](https://starchart.cc/CryingMan666/eternal-nodes)
 [![code style:CryingMan666](https://img.shields.io/badge/永久-高速订阅-ff69b4.svg?style=flat-square)](https://github.com/CryingMan666/eternal-nodes)
-<img src="https://komarev.com/ghpvc/?username=CryingMan666&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 [![GitHub stars](https://img.shields.io/github/stars/CryingMan666/eternal-nodes.svg?style=social&label=Stars)](https://github.com/CryingMan666/eternal-nodes/stargazers)
+<img src="https://komarev.com/ghpvc/?username=CryingMan666&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </details>
