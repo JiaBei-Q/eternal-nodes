@@ -32,9 +32,7 @@ https://oss.v2rayse.com/proxies/data/2024-04-22/arStjb1.txt
 <summary>以上仅供学习交流使用⚡️出现违法问题该项目所有者概不负责</summary>
 
 [![Stargazers over time](https://starchart.cc/CryingMan666/eternal-nodes.svg)](https://starchart.cc/CryingMan666/eternal-nodes)
-[![GitHub stars](https://img.shields.io/github/stars/CryingMan666/eternal-nodes.svg?style=social&label=Stars)](https://github.com/CryingMan666/eternal-nodes/stargazers)
-<a href="https://github.com/CryingMan666/eternal-nodes/issues"><img src="https://img.shields.io/github/issues/CryingMan666/eternal-nodes?color=ff80eb&labelColor=black&style=flat-square" alt="issues">
-<img src="https://komarev.com/ghpvc/?username=CryingMan666&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-
+![CryingMan666's GitHub stats](https://github-readme-stats.vercel.app/api?username=CryingMan666&show_icons=true&theme=radical)
 <a href="https://github.com/CryingMan666/eternal-nodes/graphs/contributors"><img src="https://contrib.rocks/image?repo=CryingMan666/eternal-nodes"  alt="contributors"/></a> 恭喜解锁隐藏成就：【监察者】
+<img src="https://komarev.com/ghpvc/?username=CryingMan666&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </details>
