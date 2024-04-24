@@ -11,6 +11,9 @@ https://oss.v2rayse.com/proxies/data/2024-04-22/9HLJn21.txt
 https://oss.v2rayse.com/proxies/data/2024-04-23/gSFQ2ss.txt
 ```
 ```
+https://oss.v2rayse.com/proxies/data/2024-04-24/fBsc63U.txt
+```
+```
 https://oss.v2rayse.com/proxies/data/2024-04-24/HVhMR8A.txt
 ```
 ```
@@ -35,6 +38,4 @@ https://oss.v2rayse.com/proxies/data/2024-04-22/arStjb1.txt
 [![code style:CryingMan666](https://img.shields.io/badge/永久-免费-ff69b4.svg?style=flat-square)](https://github.com/CryingMan666/eternal-nodes)
 <img src="https://komarev.com/ghpvc/?username=CryingMan666&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 [![GitHub stars](https://img.shields.io/github/stars/CryingMan666/eternal-nodes.svg?style=social&label=Stars)](https://github.com/CryingMan666/eternal-nodes/stargazers)
-
-<a href="https://github.com/CryingMan666/eternal-nodes/graphs/contributors"><img src="https://contrib.rocks/image?repo=CryingMan666/eternal-nodes"  alt="contributors"/></a> 恭喜解锁隐藏成就：【监察者】
 </details>
