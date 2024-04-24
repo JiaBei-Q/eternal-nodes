@@ -29,7 +29,7 @@ https://oss.v2rayse.com/proxies/data/2024-04-22/arStjb1.txt
 > https://github.com/CryingMan666/eternal-nodes
 
 <details>
-<summary>以上仅供学习交流使用⚡️出现违法问题该项目所有者概不负责</summary>
+<summary>以上仅供学习交流⚡️使用者若出现违法问题该项目所有者概不负责</summary>
 
 [![Stargazers over time](https://starchart.cc/CryingMan666/eternal-nodes.svg)](https://starchart.cc/CryingMan666/eternal-nodes)
 [![code style:CryingMan666](https://img.shields.io/badge/永久-免费-ff69b4.svg?style=flat-square)](https://github.com/CryingMan666/eternal-nodes)
