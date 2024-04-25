@@ -25,9 +25,9 @@ https://oss.v2rayse.com/proxies/data/2024-04-22/arStjb1.txt
 >
 > 失效的订阅链接会被定期更换🆕新订阅会在其位置生成
 >
-> 部分地区被墙🚫可用其它慢速梯子兑换本站的高速节点
+> 部分地区被墙🚫可用其它慢速梯子兑换本站的高速订阅
 >
-> 永久白嫖高速节点，如果喜欢请转发⬇收藏本站不迷路
+> 永久白嫖高速订阅，如果喜欢请转发⬇收藏本站不迷路
 >
 > https://github.com/CryingMan666/eternal-nodes
 
@@ -35,7 +35,7 @@ https://oss.v2rayse.com/proxies/data/2024-04-22/arStjb1.txt
 <summary>以上仅供学习交流⚡️使用者若出现违法问题该项目所有者概不负责</summary>
 
 [![Stargazers over time](https://starchart.cc/CryingMan666/eternal-nodes.svg)](https://starchart.cc/CryingMan666/eternal-nodes)
-[![code style:CryingMan666](https://img.shields.io/badge/永久-高速节点-ff69b4.svg?style=flat-square)](https://github.com/CryingMan666/eternal-nodes)
+[![code style:CryingMan666](https://img.shields.io/badge/永久白嫖-高速订阅-ff69b4.svg?style=flat-square)](https://github.com/CryingMan666/eternal-nodes)
 [![GitHub stars](https://img.shields.io/github/stars/CryingMan666/eternal-nodes.svg?style=social&label=Stars)](https://github.com/CryingMan666/eternal-nodes/stargazers)
 <img src="https://komarev.com/ghpvc/?username=CryingMan666&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 </details>
