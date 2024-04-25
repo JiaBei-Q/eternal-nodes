@@ -11,12 +11,6 @@ https://oss.v2rayse.com/proxies/data/2024-04-25/l7QkAXc.txt
 https://oss.v2rayse.com/proxies/data/2024-04-25/UyovNsz.txt
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-04-25/g7vyXzg.txt
-```
-```
-https://oss.v2rayse.com/proxies/data/2024-04-25/iwxFJ8e.txt
-```
-```
 https://oss.v2rayse.com/proxies/data/2024-04-25/LgYUuCl.txt
 ```
 ```
