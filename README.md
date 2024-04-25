@@ -8,13 +8,10 @@
 https://oss.v2rayse.com/proxies/data/2024-04-25/wy8RNzL.txt
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-04-25/pLs0Jo5.txt
+https://oss.v2rayse.com/proxies/data/2024-04-25/LgYUuCl.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-04-25/UyovNsz.txt
-```
-```
-https://oss.v2rayse.com/proxies/data/2024-04-25/LgYUuCl.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-04-22/arStjb1.txt
