@@ -8,6 +8,9 @@
 https://oss.v2rayse.com/proxies/data/2024-04-25/l7QkAXc.txt
 ```
 ```
+https://shz.al/PybR
+```
+```
 https://oss.v2rayse.com/proxies/data/2024-04-25/UyovNsz.txt
 ```
 ```
