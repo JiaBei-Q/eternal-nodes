@@ -5,13 +5,13 @@
 
 ## 优质订阅(𝟏小时前更新)
 ```
-https://oss.v2rayse.com/proxies/data/2024-04-26/hXhid42.txt
+https://oss.v2rayse.com/proxies/data/2024-04-26/rxTFwIO.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-04-26/fA0tj8q.txt
 ```
 ```
-https://oss.v2rayse.com/proxies/data/2024-04-26/rxTFwIO.txt
+https://oss.v2rayse.com/proxies/data/2024-04-26/hXhid42.txt
 ```
 ```
 https://oss.v2rayse.com/proxies/data/2024-04-26/Cyc0pk5.txt
