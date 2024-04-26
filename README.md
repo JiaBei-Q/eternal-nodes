@@ -8,6 +8,9 @@
 https://oss.v2rayse.com/proxies/data/2024-04-26/22VDUlZ.txt
 ```
 ```
+https://oss.v2rayse.com/proxies/data/2024-04-26/fwkyHBF.txt
+```
+```
 https://oss.v2rayse.com/proxies/data/2024-04-26/hXhid42.txt
 ```
 ```
