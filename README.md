@@ -21,8 +21,6 @@ https://oss.v2rayse.com/proxies/data/2024-04-22/arStjb1.txt
 ```
 
 ## ★★★★
-> 为了更好体验❤️每次使用前测速新导入订阅的全部节点
->
 > 失效的订阅链接会被定期更换🆕新订阅会在其位置生成
 >
 > 部分地区被墙🚫可用其它慢速梯子兑换本站的高速订阅
@@ -32,7 +30,7 @@ https://oss.v2rayse.com/proxies/data/2024-04-22/arStjb1.txt
 > https://github.com/CryingMan666/eternal-nodes
 
 <details>
-<summary>以上仅供学习交流使用⚡️使用者若触犯法律⚡️该项目所有者不承担任何责任</summary>
+<summary>以上仅供学习交流使用⚡️若使用者触犯法律⚡️该项目所有者不承担任何责任</summary>
 
 [![Stargazers over time](https://starchart.cc/CryingMan666/eternal-nodes.svg)](https://starchart.cc/CryingMan666/eternal-nodes)
 [![GitHub stars](https://img.shields.io/github/stars/CryingMan666/eternal-nodes.svg?style=social&label=Stars)](https://github.com/CryingMan666/eternal-nodes/stargazers)
