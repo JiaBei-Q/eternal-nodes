@@ -18,16 +18,14 @@ https://oss.v2rayse.com/proxies/data/2024-04-22/arStjb1.txt
 ```
 
 ## ★★★★
-> 失效的订阅链接会被定期更换🆕新订阅会在其位置更新
->
 > 部分地区被墙🚫可用其它慢速梯子兑换本站的高速订阅
 >
-> 永久白嫖高速订阅，如果喜欢请转发👇收藏本站不迷路
+> 永久白嫖高速订阅，如果喜欢请转发❤️收藏本站不迷路
 >
 > https://github.com/CryingMan666/eternal-nodes
 
 <details>
-<summary>以上仅供学习交流❤️使用者违法，该项目所有者概不负责</summary>
+<summary>以上仅供学习交流♻️使用者违法，该项目所有者概不负责</summary>
 
 [![Stargazers over time](https://starchart.cc/CryingMan666/eternal-nodes.svg)](https://starchart.cc/CryingMan666/eternal-nodes)
 [![GitHub stars](https://img.shields.io/github/stars/CryingMan666/eternal-nodes.svg?style=social&label=Stars)](https://github.com/CryingMan666/eternal-nodes/stargazers)
