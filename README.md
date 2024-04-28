@@ -28,7 +28,7 @@ https://oss.v2rayse.com/proxies/data/2024-04-27/OWXwlQw.txt
 > https://github.com/CryingMan666/eternal-nodes
 
 <details>
-<summary>以上仅供学习交流♻️使用者若违法该项目所有者概不负责</summary>
+<summary>以上仅供学习交流使用⚡️请勿用于其他用途</summary>
 
 [![Stargazers over time](https://starchart.cc/CryingMan666/eternal-nodes.svg)](https://starchart.cc/CryingMan666/eternal-nodes)
 [![GitHub stars](https://img.shields.io/github/stars/CryingMan666/eternal-nodes.svg?style=social&label=Stars)](https://github.com/CryingMan666/eternal-nodes/stargazers)
